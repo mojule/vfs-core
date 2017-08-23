@@ -12,12 +12,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mojule/vfs.git"
+    "url": "https://github.com/mojule/vfs-core.git"
   },
   "bugs": {
-    "url": "https://github.com/mojule/vfs/issues"
+    "url": "https://github.com/mojule/vfs-core/issues"
   },
-  "homepage": "https://github.com/mojule/vfs#readme",
+  "homepage": "https://github.com/mojule/vfs-core#readme",
   "devDependencies": {
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0",
