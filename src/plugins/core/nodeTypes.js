@@ -1,6 +1,6 @@
 'use strict'
 
-const path = require( 'path' )
+const path = require( '@mojule/path' )
 const is = require( '../../is' )
 const Mime = require( 'mime' )
 

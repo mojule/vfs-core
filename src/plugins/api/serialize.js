@@ -1,7 +1,7 @@
 'use strict'
 
 const is = require( '../../is' )
-const path = require( 'path' )
+const path = require( '@mojule/path' )
 const Mime = require( 'mime' )
 
 const serialize = ({ api, Api }) => {
